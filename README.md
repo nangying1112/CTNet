@@ -4,11 +4,7 @@ We mainly focus on the [PDTB 2.0](https://www.seas.upenn.edu/~pdtb/) dataset.
 
 Put the folder `PDTB 2.0` to `./` first.
 
-Get all the documents as follows:
-
-```	
-python ./documents_all_rels.py
-```
+Get all the documents first
 
 Split the document into argument pairs with their corresponding paragraphs as follows:
 
